@@ -15,8 +15,8 @@ Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por programa�
 
 ## Contato
 
-- Site pessoal: [seusite.com](http://www.fredericomagalhaes.com)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/frederico-magalhães/)
+- Site pessoal: [fredericomagalhaes.com](http://www.fredericomagalhaes.com)
+- LinkedIn: [Frederico Magalhães](https://www.linkedin.com/in/frederico-magalhães/)
 
 
 
