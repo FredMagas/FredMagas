@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por programa�
 
 ## Contato
 
-- Site pessoal: [fredericomagalhaes.com](http://www.fredericomagalhaes.com)
+- Site pessoal: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
 - LinkedIn: [Frederico Magalhães](https://www.linkedin.com/in/frederico-magalhães/)
 
 
