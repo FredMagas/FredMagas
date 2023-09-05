@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por programa�
 - Site pessoal: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
 - LinkedIn: [Frederico Magalhães](https://www.linkedin.com/in/frederico-magalhães/)
 
-# Skills
+## Skills
 
 <div style="width: 200px;">
 <a href="https://github.com/FredMagas/github-readme-stats">
