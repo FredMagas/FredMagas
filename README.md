@@ -17,7 +17,13 @@ Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por programa�
 - Site pessoal: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
 - LinkedIn: [Frederico Magalhães](https://www.linkedin.com/in/frederico-magalhães/)
 
+# Skills
 
+<div style="width: 200px;">
+<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 
 
 
