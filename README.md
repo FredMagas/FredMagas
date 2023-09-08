@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por programa√
 
 <div style="width: 200px;">
 <a href="https://github.com/FredMagas/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&amp;layout=compact&amp;langs_count=6&amp;theme=dracula" alt="Top Langs" />
 </a>
 </div>
 
