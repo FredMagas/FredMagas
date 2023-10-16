@@ -1,4 +1,4 @@
-# Olá! Eu sou o FredMaga ⚙️
+# Olá! Eu sou o Frederico ⚙️
 
 Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por programação, cyber segurança, robótica, automação e impressão 3D.
 
