@@ -1,20 +1,20 @@
-# Olá! Eu sou o Frederico ⚙️
+# Hello! I'm Frederico ⚙️
 
-Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor apaixonado por programação, cyber segurança, robótica, automação e impressão 3D.
+Welcome to my GitHub profile. I'm a developer passionate about programming, cyber security, robotics, automation and 3D printing.
 
-## Linguagens e Ferramentas
+## Languages ​​and Tools
 
-- Linguagens: Python, JavaScript
+- Languages: Python, JavaScript
 - Frameworks: Django
-- Ferramentas: Git, VS Code
+- Tools: Git, VS Code
 
-## Projetos Destacados
+## Featured Projects
 
-- [Projeto 1](https://www.fyequipamentos.com.br): Tive a oportunidade de criar o novo site da empresa utilizando o Framework Django, com área restrita de usuários onde a empresa irá criar um usuário para cada cliente, onde os mesmos poderão acompanhar todo o processo de compra até a fabricação dos produtos, com acesso a todas as documentações e fotos. No futuro será implementado um sistema de monitoramento remoto dos produtos da empresa, no qual os clientes poderão acompanhar em tempo real via web ou mobile o funcionamento de seus produtos.
+- [Project 1](https://www.fyequipamentos.com.br): I had the opportunity to create the company's new website using the Django Framework, with a restricted user area where the company will create a user for each client, where they will be able to follow the entire purchasing process up to the manufacturing of the products, with access to all documentation and photos. In the future, a remote monitoring system for the company's products will be implemented, in which customers will be able to monitor the functioning of their products in real time via the web or mobile.
 
-## Contato
+## Contact
 
-- Site pessoal: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
+- Personal website: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
 - LinkedIn: [Frederico Magalhães](https://www.linkedin.com/in/frederico-magalhães/)
 
 ## Skills
