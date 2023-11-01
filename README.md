@@ -12,6 +12,8 @@ Welcome to my GitHub profile. I'm a developer passionate about programming, cybe
 
 - [Project 1](https://www.fyequipamentos.com.br): I had the opportunity to create the company's new website using the Django Framework, with a restricted user area where the company will create a user for each client, where they will be able to follow the entire purchasing process up to the manufacturing of the products, with access to all documentation and photos. In the future, a remote monitoring system for the company's products will be implemented, in which customers will be able to monitor the functioning of their products in real time via the web or mobile.
 
+- [Project 2](https://www.magafactory.com.br): I made this linktree-type website to use on my company's Instagram, and to do this I used pure Javascript, HTML and CSS.
+
 ## Contact
 
 - Personal website: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
