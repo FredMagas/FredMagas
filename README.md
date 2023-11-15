@@ -14,6 +14,8 @@ Welcome to my GitHub profile. I'm a developer passionate about programming, cybe
 
 - [Project 2](https://www.magafactory.com.br): I made this linktree-type website to use on my company's Instagram, and to do this I used pure Javascript, HTML and CSS.
 
+- [Project 3](https://todo-react-django.vercel.app/): I made this To-Do app, with Django using Rest API for Back-end, react with TailWind CSS for Front-end. And for deploy I use Heroku for Back-end and Vercel for Front-end.
+
 ## Contact
 
 - Personal website: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
