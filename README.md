@@ -1,6 +1,6 @@
 # Hello! I'm Frederico ⚙️
 
-Welcome to my GitHub profile. I'm a developer passionate about programming, cyber security, robotics, automation and 3D printing.
+Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate about programming, cyber security, robotics, automation and 3D printing.
 
 ## Languages ​​and Tools
 
