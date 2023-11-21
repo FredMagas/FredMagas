@@ -5,8 +5,8 @@ Welcome to my GitHub profile. I'm a developer passionate about programming, cybe
 ## Languages ​​and Tools
 
 - Languages: Python, JavaScript
-- Frameworks: Django
-- Tools: Git, VS Code
+- Frameworks: Django, React.JS
+- Tools: Git, VS Code, Pandas, Excel
 
 ## Featured Projects
 
