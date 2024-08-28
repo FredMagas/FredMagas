@@ -4,9 +4,40 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 
 ## Languages ​​and Tools
 
-- Languages: Python, JavaScript
-- Frameworks: Django, React.JS
-- Tools: Git, VS Code, Pandas, Excel
+- Programming Languages: 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="margin-right: 10px;"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin-right: 10px;"/>
+
+- Markup and Style Languages:
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" alt="Markdown Badge" style="margin-right: 10px;"/>
+
+- Frameworks: 
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge" style="margin-right: 10px;"/>
+
+- Databases: 
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E" alt="SQLite Badge" style="margin-right: 10px;"/>
+
+- Cloud Computing Service: 
+  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8" alt="Azure Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render Badge" style="margin-right: 10px;"/>
+
+- OS: 
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" alt="Ubuntu Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Windows-357EC7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48c3R5bGU+LnN0MHtmaWxsOiNGRkZGRkY7fTwvc3R5bGU+PHBhdGggY2xhc3M9InN0MCIgZD0iTTAgOTMuN2wxODMuNi0yNS4zdjE3Ny40SDBWOTMuN3ptMCAzMjQuNmwxODMuNiAyNS4zVjI2OC40SDB2MTQ5Ljl6bTIwMy44IDI4TDQ0OCA0ODBWMjY4LjRIMjAzLjh2MTc3Ljl6bTAtMzgwLjZ2MTgwLjFINDQ4VjMyTDIwMy44IDY1Ljd6Ii8+PC9zdmc+" alt="Windows Badge" style="margin-right: 10px;"/>
+
+- Tools: 
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgZmlsbD0iI2ZmZiIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTAuNTUgMCAyMzUuMSAyMzUuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHN0eWxlPi5zdDB7ZmlsbDojZmZmfTwvc3R5bGU+PHBhdGggY2xhc3M9InN0MCIgZD0iTTgzLjMgMTQzLjlsLTU4IDQ1LjJMMCAxNzYuNVY1OC43TDI1LjIgNDZsNTcuNiA0NS4zTDE3NCAwbDYwIDIzLjl2MTg2LjlsLTU5LjcgMjQuMy05MS05MS4yem04OC45IDE1LjlWNzUuM2wtNTQuNiA0Mi4zIDU0LjYgNDIuMnpNMjcuMyAxNDQuNkw1NiAxMTguNSAyNy4zIDg5Ljl2NTQuN3oi alt="Vscode Badge" style="margin-right: 10px;"/>
 
 ## Featured Projects
 
@@ -18,8 +49,20 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 
 ## Contact
 
-- Personal website: [fredericomagalhaes.com](https://www.fredericomagalhaes.com)
-- LinkedIn: [Frederico Magalhães](https://www.linkedin.com/in/frederico-magalhães/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/frederico-magalhães/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/FredMagas">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.fredericomagalhaes.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://tryhackme.com/p/FredMaga">
+    <img src="https://img.shields.io/badge/TryHackMe-212529?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" style="margin-right: 10px;"/>
+  </a>
+</p>
 
 ## Skills
 
