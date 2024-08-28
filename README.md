@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 
 ## Languages ​​and Tools
 
-- Programming Languages: 
+- Programming Languages:
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="margin-right: 10px;"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin-right: 10px;"/>
 
@@ -68,10 +68,10 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/FredMagas/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&layout=compact&langs_count=6&theme=dracula" alt="Top Langs" style="width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&layout=compact&langs_count=6&theme=dracula" alt="Top Langs" style="height: 200px;"/>
   </a>
   <a href="https://github.com/FredMagas">
-    <img src="https://github-readme-stats.vercel.app/api?username=FredMagas&theme=dracula&show_icons=true&title_color=E94D5F&text_color=FFF&bg_color=282a36&icon_color=79fe96&border_color=282a36" alt="Stats" style="width: 400px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=FredMagas&theme=dracula&show_icons=true&title_color=E94D5F&text_color=FFF&bg_color=282a36&icon_color=79fe96&border_color=282a36" alt="Stats" style="height: 200px;"/>
   </a>
 </div>
 
