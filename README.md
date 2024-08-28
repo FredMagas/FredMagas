@@ -4,14 +4,10 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 
 ## Languages ​​and Tools
 
-<div align="center">
-  <div style="display: inline-block; margin-right: 10px;">
-    <strong>Programming Languages:</strong>
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  </div>
+<div style="display: flex; align-items: center;">
+  <strong>Programming Languages:</strong>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="margin-left: 10px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin-left: 10px;"/>
 </div>
 
 - Markup and Style Languages:
