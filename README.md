@@ -66,12 +66,12 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 
 ## Skills
 
-<div style="width: 200px;">
-<a href="https://github.com/FredMagas/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&amp;layout=compact&amp;langs_count=6&amp;theme=dracula" alt="Top Langs" />
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=FredMagas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)" alt="Stats" />
-</a>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/FredMagas/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&layout=compact&langs_count=6&theme=dracula" alt="Top Langs" style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/FredMagas">
+    <img src="https://github-readme-stats.vercel.app/api?username=FredMagas&theme=dracula&show_icons=true&title_color=E94D5F&text_color=FFF&bg_color=282a36&icon_color=79fe96&border_color=282a36" alt="Stats" style="width: 400px;"/>
+  </a>
 </div>
 
