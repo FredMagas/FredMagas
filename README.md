@@ -70,6 +70,8 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 <a href="https://github.com/FredMagas/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredMagas&amp;layout=compact&amp;langs_count=6&amp;theme=dracula" alt="Top Langs" />
 </a>
+<a>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+</a>
 </div>
-
 
