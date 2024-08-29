@@ -52,7 +52,7 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 
 ## Contact
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/frederico-magalhães/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
   </a>
