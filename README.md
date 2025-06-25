@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 - Frameworks: 
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" style="margin-right: 10px;"/>
-  ##<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge" style="margin-right: 10px;"/>
+  //<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge" style="margin-right: 10px;"/>
 
 - Databases: 
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge" style="margin-right: 10px;"/>
