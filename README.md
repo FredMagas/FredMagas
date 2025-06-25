@@ -38,8 +38,9 @@ Welcome to my GitHub profile. I'm Mechanical Engineer and a developer passionate
 - Tools: 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" style="margin-right: 10px;"/>
-  <!--<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" style="margin-right: 10px;"/> -->
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgZmlsbD0iI2ZmZiIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTAuNTUgMCAyMzUuMSAyMzUuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHN0eWxlPi5zdDB7ZmlsbDojZmZmfTwvc3R5bGU+PHBhdGggY2xhc3M9InN0MCIgZD0iTTgzLjMgMTQzLjlsLTU4IDQ1LjJMMCAxNzYuNVY1OC43TDI1LjIgNDZsNTcuNiA0NS4zTDE3NCAwbDYwIDIzLjl2MTg2LjlsLTU5LjcgMjQuMy05MS05MS4yem04OC45IDE1LjlWNzUuM2wtNTQuNiA0Mi4zIDU0LjYgNDIuMnpNMjcuMyAxNDQuNkw1NiAxMTguNSAyNy4zIDg5Ljl2NTQuN3oiLz48L3N2Zz4=" alt="Vscode Badge" style="margin-right: 10px;"/>
+  <!--<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" style="margin-right: 10px;"/> -->
+  
  
 
 ## Featured Projects
